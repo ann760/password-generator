@@ -103,8 +103,6 @@ function writePassword() {
 
 }
 
-
-
 // gather options
 // genertate password
 // print password to screen
